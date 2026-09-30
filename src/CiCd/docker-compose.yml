@@ -1,5 +1,5 @@
 services:
-  livecoding:
+  CICD_TEST:
     image: ghcr.io/nico003t/cicdoevelse:latest
     restart: unless-stopped
     ports:
