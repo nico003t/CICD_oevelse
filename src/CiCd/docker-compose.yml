@@ -1,5 +1,5 @@
 services:
-  {your-containername}:
+  livecoding:
     image: ghcr.io/nico003t/cicdoevelse:latest
     restart: unless-stopped
     ports:
